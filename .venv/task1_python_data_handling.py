@@ -1,6 +1,6 @@
-# Internship Task 1: Python Data Handling
+#-------------------------------
 # Part 1: List Operations
-# -------------------------------
+#-------------------------------
 
 numbers = [
     12, 45, 23, 67, 89, 34, 22, 10, 5, 99,
@@ -31,9 +31,9 @@ print("Minimum:", minimum)
 print("Maximum:", maximum)
 
 
-# -------------------------------
+#-------------------------------
 # Part 2: Dictionary Operations
-# -------------------------------
+#-------------------------------
 
 students = {
     "Amit": 85,
@@ -57,9 +57,9 @@ print(sorted_students[1][0], ":", sorted_students[1][1])
 print(sorted_students[2][0], ":", sorted_students[2][1])
 
 
-# -------------------------------
+#-------------------------------
 # Part 3: File Handling
-# -------------------------------
+#-------------------------------
 
 file_sum = 0
 
