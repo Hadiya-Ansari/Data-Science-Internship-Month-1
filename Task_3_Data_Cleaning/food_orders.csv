@@ -1,0 +1,601 @@
+Order_ID,City,Food_Type,Quantity,Unit_Price,Rating
+1,Kolkata,Chinese,2,237,5.0
+2,Bhubaneswar,Ice Cream,7,95,8.8
+3,Lucknow,Mughlai,3,68,5.2
+4,Surat,Fast Food,2,117,8.7
+5,Ahmedabad,Veg,7,267,6.0
+6,Kolkata,Veg,2,151,9.8
+7,Raipur,Ice Cream,3,91,6.8
+8,Surat,BBQ,7,81,6.6
+9,Surat,Cafe,4,216,5.7
+10,Chennai,Italian,1,158,6.5
+11,Ahmedabad,Cafe,5,287,9.4
+12,Pune,Mughlai,9,85,10.0
+13,Mumbai,Veg,8,281,6.8
+14,Vadodara,Non-Veg,9,278,7.2
+15,Hyderabad,North Indian,9,146,8.6
+16,Mumbai,Beverage,7,213,9.4
+17,Delhi,Veg,4,180,8.0
+18,Vadodara,Vegan,5,122,7.0
+19,Vadodara,Street Food,1,185,7.1
+20,Patna,Cafe,1,146,8.5
+21,Indore,Fast Food,3,172,5.0
+22,Kanpur,Fast Food,8,119,8.1
+23,Lucknow,Street Food,2,218,6.8
+24,Lucknow,Beverage,4,280,9.0
+25,Raipur,Fast Food,2,245,5.5
+26,Vadodara,Fast Food,5,62,7.9
+27,Bhubaneswar,Chinese,9,98,7.4
+28,Pune,Chinese,1,109,8.2
+29,Bangalore,Cafe,5,179,5.3
+30,Raipur,Seafood,9,237,7.9
+31,Kolkata,North Indian,1,54,7.8
+32,Jaipur,Seafood,9,221,7.8
+33,Kolkata,Veg,8,76,8.0
+34,Ranchi,Mughlai,4,209,8.4
+35,Chennai,Mughlai,5,198,9.0
+36,Bhopal,Dessert,5,57,6.3
+37,Ranchi,Veg,6,279,9.1
+38,Jaipur,Cafe,7,249,7.5
+39,Mumbai,South Indian,8,99,5.4
+40,Bhubaneswar,Non-Veg,8,116,5.3
+41,Lucknow,South Indian,2,295,6.7
+42,Kolkata,Bakery,9,93,8.9
+43,Vadodara,Non-Veg,7,174,8.5
+44,Ahmedabad,Beverage,4,107,8.9
+45,Lucknow,Ice Cream,4,52,7.6
+46,Pune,Mexican,8,135,7.2
+47,Bhopal,Veg,4,119,5.7
+48,Patna,Mexican,6,179,6.6
+49,Chennai,Fast Food,5,264,7.2
+50,Ranchi,Cafe,3,221,5.4
+51,Ahmedabad,Vegan,2,51,6.1
+52,Chennai,BBQ,9,151,8.0
+53,Mumbai,BBQ,9,258,8.7
+54,Hyderabad,Fast Food,1,84,10.0
+55,Indore,Seafood,3,147,9.7
+56,Chennai,Non-Veg,8,264,8.2
+57,Ranchi,Italian,6,79,7.1
+58,Vadodara,Bakery,5,165,8.2
+59,Mumbai,Street Food,5,57,8.9
+60,Indore,Non-Veg,6,199,5.6
+61,Chennai,Street Food,7,93,7.0
+62,Bhopal,Ice Cream,1,235,9.2
+63,Kanpur,Non-Veg,9,85,6.9
+64,Lucknow,Ice Cream,3,246,7.9
+65,Ahmedabad,BBQ,4,126,7.9
+66,Bhopal,Non-Veg,1,270,5.9
+67,Ahmedabad,Street Food,3,80,6.8
+68,Kanpur,Veg,2,96,6.7
+69,Nagpur,BBQ,2,298,5.1
+70,Ranchi,Chinese,1,104,5.1
+71,Lucknow,Cafe,8,257,9.2
+72,Nagpur,Fast Food,3,155,6.4
+73,Jaipur,Dessert,3,239,7.6
+74,Lucknow,Chinese,6,207,6.5
+75,Nagpur,Cafe,8,170,9.7
+76,Delhi,Chinese,9,104,6.3
+77,Kolkata,Cafe,9,193,7.1
+78,Jaipur,Fast Food,4,61,9.4
+79,Delhi,Non-Veg,5,194,9.2
+80,Vadodara,Street Food,2,193,5.9
+81,Ahmedabad,Non-Veg,9,189,9.0
+82,Surat,Mughlai,8,185,7.3
+83,Raipur,Italian,3,261,7.4
+84,Patna,Italian,9,52,5.7
+85,Ahmedabad,Vegan,3,193,5.4
+86,Pune,Italian,9,79,8.6
+87,Pune,BBQ,2,286,7.5
+88,Delhi,Vegan,9,72,7.2
+89,Bangalore,Italian,8,141,8.6
+90,Indore,Vegan,9,164,8.8
+91,Kolkata,South Indian,5,153,5.8
+92,Jaipur,Dessert,2,167,8.1
+93,Kolkata,South Indian,8,54,5.7
+94,Jaipur,Dessert,6,261,8.8
+95,Ahmedabad,Beverage,8,153,8.3
+96,Vadodara,Beverage,5,297,9.8
+97,Mumbai,Ice Cream,2,157,5.3
+98,Delhi,Fast Food,6,114,5.3
+99,Kanpur,Ice Cream,5,170,6.4
+100,Bangalore,Chinese,5,79,6.3
+101,Pune,Street Food,1,198,6.2
+102,Vadodara,Veg,2,133,9.5
+103,Ahmedabad,Fast Food,8,247,6.2
+104,Pune,North Indian,3,199,6.4
+105,Delhi,Mexican,3,259,8.8
+106,Pune,Seafood,8,249,7.2
+107,Bangalore,Non-Veg,8,280,8.9
+108,Lucknow,Cafe,2,81,5.3
+109,Bhopal,Seafood,8,210,7.4
+110,Pune,Mughlai,1,294,5.2
+111,Delhi,North Indian,6,65,5.3
+112,Bangalore,BBQ,8,253,9.5
+113,Bhopal,BBQ,3,87,5.7
+114,Kolkata,Italian,8,293,7.7
+115,Jaipur,Vegan,1,275,7.1
+116,Lucknow,Cafe,9,191,6.7
+117,Lucknow,Dessert,9,85,9.5
+118,Indore,Veg,5,274,5.1
+119,Nagpur,South Indian,4,200,8.3
+120,Raipur,Cafe,6,163,9.8
+121,Kolkata,Beverage,7,286,7.8
+122,Patna,BBQ,5,115,9.7
+123,Bhubaneswar,BBQ,9,154,5.3
+124,Chennai,Seafood,3,134,7.1
+125,Bangalore,Seafood,7,51,6.3
+126,Kolkata,Non-Veg,5,268,8.7
+127,Nagpur,Mughlai,7,298,9.9
+128,Lucknow,Seafood,2,250,6.3
+129,Surat,Bakery,4,242,8.3
+130,Chennai,Beverage,2,124,6.0
+131,Nagpur,BBQ,7,116,7.8
+132,Kolkata,Seafood,2,229,7.3
+133,Raipur,Italian,1,239,9.9
+134,Mumbai,BBQ,9,200,8.0
+135,Indore,Mughlai,1,203,6.7
+136,Nagpur,Ice Cream,8,245,5.6
+137,Hyderabad,Street Food,2,259,5.8
+138,Vadodara,Beverage,8,104,6.1
+139,Vadodara,BBQ,3,55,6.3
+140,Bhubaneswar,Fast Food,6,212,9.3
+141,Surat,Chinese,3,199,7.8
+142,Kolkata,Bakery,7,220,7.6
+143,Delhi,Cafe,9,192,5.6
+144,Delhi,Bakery,2,135,9.3
+145,Bhubaneswar,Mexican,5,109,8.6
+146,Nagpur,Cafe,6,150,5.3
+147,Jaipur,Mughlai,4,293,8.5
+148,Pune,Dessert,4,283,7.7
+149,Kolkata,Chinese,4,61,5.4
+150,Hyderabad,Beverage,2,288,7.3
+151,Ahmedabad,North Indian,4,98,7.4
+152,Jaipur,Mughlai,1,91,5.8
+153,Bangalore,Ice Cream,6,215,9.7
+154,Delhi,BBQ,1,131,9.2
+155,Raipur,Dessert,6,222,8.3
+156,Indore,BBQ,1,84,7.3
+157,Vadodara,Non-Veg,6,207,7.1
+158,Lucknow,BBQ,8,265,8.3
+159,Jaipur,South Indian,2,283,7.7
+160,Bhubaneswar,South Indian,2,207,5.3
+161,Patna,Cafe,4,255,7.6
+162,Patna,Mexican,3,183,9.0
+163,Bhubaneswar,Chinese,4,116,7.3
+164,Vadodara,North Indian,7,129,5.3
+165,Kolkata,Fast Food,1,56,8.9
+166,Mumbai,Street Food,6,229,6.0
+167,Pune,Non-Veg,3,63,6.3
+168,Patna,Mughlai,7,122,5.8
+169,Bangalore,Street Food,2,192,6.7
+170,Patna,Fast Food,2,198,8.8
+171,Patna,Veg,4,212,7.6
+172,Patna,Street Food,1,115,6.0
+173,Mumbai,Street Food,3,140,9.4
+174,Mumbai,Vegan,9,179,9.4
+175,Bangalore,Dessert,7,212,9.4
+176,Delhi,Italian,7,259,6.2
+177,Delhi,North Indian,4,255,7.3
+178,Raipur,Beverage,2,69,9.9
+179,Mumbai,South Indian,4,259,8.9
+180,Vadodara,Fast Food,6,59,5.1
+181,Hyderabad,Dessert,3,74,5.3
+182,Chennai,Street Food,1,243,7.3
+183,Surat,Non-Veg,8,74,9.5
+184,Patna,Italian,5,103,7.7
+185,Hyderabad,Dessert,5,82,7.5
+186,Bangalore,BBQ,4,213,5.5
+187,Bhubaneswar,Street Food,6,144,8.3
+188,Mumbai,Cafe,3,63,9.1
+189,Hyderabad,Street Food,9,114,6.9
+190,Surat,Non-Veg,5,159,8.9
+191,Kanpur,BBQ,3,129,9.8
+192,Kanpur,Italian,1,103,6.0
+193,Delhi,South Indian,6,287,7.6
+194,Jaipur,Mughlai,2,174,6.4
+195,Hyderabad,Mexican,3,229,9.0
+196,Kanpur,Fast Food,1,180,7.9
+197,Pune,Street Food,9,276,8.2
+198,Bhubaneswar,Dessert,8,218,9.0
+199,Chennai,Veg,2,183,7.0
+200,Raipur,Cafe,8,74,9.6
+201,Pune,Mexican,9,190,7.7
+202,Raipur,BBQ,1,166,5.8
+203,Bhubaneswar,Veg,5,275,8.5
+204,Kolkata,Seafood,8,185,9.0
+205,Bhubaneswar,Street Food,2,198,6.6
+206,Jaipur,Fast Food,4,275,9.3
+207,Delhi,Italian,7,245,9.5
+208,Ahmedabad,Dessert,3,74,6.4
+209,Kolkata,Mughlai,5,128,9.9
+210,Ranchi,Italian,8,117,5.7
+211,Ahmedabad,Beverage,3,222,6.0
+212,Delhi,Veg,4,237,5.9
+213,Surat,Street Food,9,61,9.5
+214,Ranchi,Ice Cream,7,81,8.3
+215,Indore,Chinese,1,177,5.8
+216,Pune,Fast Food,4,145,7.2
+217,Kolkata,Chinese,4,141,8.1
+218,Kanpur,Mexican,9,190,5.4
+219,Kanpur,Non-Veg,6,80,9.4
+220,Bhubaneswar,Mughlai,9,127,9.0
+221,Patna,South Indian,6,69,7.5
+222,Mumbai,Non-Veg,6,195,9.8
+223,Delhi,Veg,5,270,7.1
+224,Kanpur,Fast Food,5,109,9.9
+225,Vadodara,North Indian,2,240,8.3
+226,Bangalore,Cafe,8,183,8.2
+227,Bangalore,North Indian,8,209,5.8
+228,Jaipur,Italian,1,142,9.4
+229,Jaipur,BBQ,8,92,7.1
+230,Pune,Street Food,5,179,5.8
+231,Raipur,Beverage,2,109,5.1
+232,Kanpur,Cafe,2,200,7.8
+233,Kanpur,Fast Food,6,260,7.6
+234,Pune,Mexican,9,80,8.6
+235,Bhubaneswar,Ice Cream,1,292,9.5
+236,Delhi,Seafood,6,54,5.4
+237,Bhubaneswar,Italian,9,260,8.7
+238,Surat,North Indian,8,211,5.9
+239,Patna,Non-Veg,6,59,9.3
+240,Ahmedabad,Mexican,3,138,9.1
+241,Chennai,Beverage,8,179,7.7
+242,Hyderabad,Beverage,9,175,8.6
+243,Ahmedabad,Veg,1,60,6.6
+244,Bhubaneswar,South Indian,9,227,7.4
+245,Pune,South Indian,6,208,9.1
+246,Kanpur,Italian,6,105,7.3
+247,Pune,North Indian,4,256,6.8
+248,Ranchi,Fast Food,1,250,7.5
+249,Bhopal,Seafood,8,264,9.1
+250,Ranchi,Beverage,2,132,6.7
+251,Mumbai,Fast Food,1,186,5.9
+252,Pune,Fast Food,2,148,8.6
+253,Kanpur,Seafood,1,198,9.1
+254,Jaipur,Dessert,1,122,5.5
+255,Chennai,Mughlai,9,205,6.2
+256,Delhi,Chinese,1,239,5.7
+257,Chennai,Ice Cream,4,287,6.7
+258,Delhi,South Indian,6,164,7.3
+259,Bhopal,South Indian,7,56,8.7
+260,Kanpur,Bakery,2,129,8.3
+261,Bhubaneswar,South Indian,6,193,8.1
+262,Ahmedabad,Seafood,7,146,6.8
+263,Kolkata,Street Food,2,53,9.2
+264,Pune,Veg,2,53,7.4
+265,Patna,BBQ,7,152,9.9
+266,Delhi,Veg,1,89,8.2
+267,Kanpur,Cafe,8,66,5.6
+268,Vadodara,Veg,3,150,8.4
+269,Raipur,BBQ,6,152,6.6
+270,Bhopal,Non-Veg,9,173,8.4
+271,Hyderabad,Seafood,6,101,5.3
+272,Hyderabad,South Indian,9,270,5.9
+273,Nagpur,South Indian,7,101,9.3
+274,Raipur,Bakery,9,213,6.1
+275,Ahmedabad,Street Food,2,173,9.2
+276,Mumbai,Street Food,8,215,6.4
+277,Delhi,Beverage,8,280,8.2
+278,Lucknow,Bakery,2,227,8.5
+279,Delhi,South Indian,4,112,7.6
+280,Bangalore,Chinese,7,278,6.5
+281,Kanpur,BBQ,4,165,6.1
+282,Raipur,BBQ,4,240,5.2
+283,Chennai,Veg,6,111,6.5
+284,Pune,Bakery,6,276,8.3
+285,Patna,Dessert,3,56,9.7
+286,Patna,Street Food,9,204,9.4
+287,Vadodara,Veg,2,141,8.8
+288,Bhopal,Fast Food,6,263,8.9
+289,Hyderabad,Veg,7,63,8.3
+290,Pune,Dessert,9,248,6.3
+291,Jaipur,Non-Veg,3,278,9.5
+292,Bangalore,Chinese,3,135,8.4
+293,Patna,Fast Food,7,182,7.8
+294,Bhopal,Chinese,4,232,5.6
+295,Pune,Veg,8,179,7.2
+296,Delhi,Street Food,7,111,7.3
+297,Bhubaneswar,Mughlai,5,268,9.3
+298,Delhi,BBQ,7,198,7.7
+299,Pune,Dessert,3,295,6.9
+300,Ranchi,Mughlai,2,279,9.9
+301,Indore,BBQ,6,128,5.6
+302,Pune,South Indian,2,198,7.1
+303,Ahmedabad,Fast Food,3,187,5.2
+304,Bhopal,BBQ,6,264,8.7
+305,Ranchi,Dessert,5,107,9.6
+306,Lucknow,Mexican,8,169,6.4
+307,Mumbai,Mughlai,9,216,9.3
+308,Indore,Non-Veg,3,182,6.5
+309,Mumbai,Dessert,3,114,9.6
+310,Patna,Dessert,3,62,8.8
+311,Ahmedabad,Italian,6,262,9.0
+312,Delhi,Fast Food,1,267,5.1
+313,Jaipur,Italian,7,291,9.8
+314,Surat,Chinese,1,286,8.6
+315,Kanpur,South Indian,5,262,6.5
+316,Kolkata,Street Food,8,230,9.1
+317,Indore,Street Food,4,131,6.4
+318,Pune,South Indian,5,278,9.4
+319,Ranchi,BBQ,4,222,5.6
+320,Nagpur,Seafood,4,209,8.5
+321,Kolkata,Italian,8,213,7.7
+322,Chennai,Mexican,2,258,5.5
+323,Nagpur,Mughlai,1,276,6.2
+324,Bhubaneswar,South Indian,3,290,5.1
+325,Delhi,Ice Cream,9,237,7.3
+326,Ahmedabad,Veg,4,188,6.5
+327,Bhopal,BBQ,5,240,8.0
+328,Kanpur,South Indian,2,198,6.5
+329,Bhopal,Italian,4,101,6.5
+330,Vadodara,Mexican,2,232,8.7
+331,Raipur,Mexican,2,166,5.2
+332,Lucknow,Dessert,4,75,9.5
+333,Mumbai,Vegan,6,245,9.3
+334,Mumbai,Dessert,7,83,8.3
+335,Raipur,Fast Food,3,101,8.0
+336,Patna,Fast Food,3,161,9.5
+337,Bhubaneswar,South Indian,6,131,5.9
+338,Indore,Chinese,3,281,5.4
+339,Hyderabad,Cafe,2,276,6.2
+340,Lucknow,North Indian,8,282,9.0
+341,Surat,Seafood,5,270,5.2
+342,Bangalore,South Indian,1,229,7.9
+343,Delhi,North Indian,3,206,10.0
+344,Ahmedabad,Italian,8,215,9.3
+345,Vadodara,Veg,4,91,7.6
+346,Vadodara,Seafood,7,70,5.3
+347,Bangalore,Fast Food,2,91,9.2
+348,Kolkata,Seafood,7,190,8.0
+349,Chennai,Dessert,5,162,5.6
+350,Hyderabad,Veg,5,154,5.5
+351,Nagpur,South Indian,6,241,9.5
+352,Bhubaneswar,BBQ,9,66,8.3
+353,Lucknow,BBQ,6,169,9.1
+354,Pune,North Indian,8,186,9.4
+355,Ahmedabad,North Indian,7,218,7.9
+356,Bhubaneswar,Chinese,9,178,7.6
+357,Kanpur,North Indian,4,179,7.2
+358,Nagpur,Beverage,2,109,6.6
+359,Ranchi,Italian,7,97,7.2
+360,Indore,Street Food,6,78,8.9
+361,Raipur,Non-Veg,1,146,8.0
+362,Patna,Bakery,9,59,9.5
+363,Raipur,Ice Cream,9,291,7.2
+364,Bangalore,Non-Veg,2,107,8.0
+365,Jaipur,Cafe,3,237,8.2
+366,Vadodara,Italian,5,281,8.0
+367,Delhi,Mexican,5,70,8.5
+368,Delhi,Bakery,1,77,6.2
+369,Lucknow,Street Food,8,252,7.6
+370,Mumbai,Veg,8,296,5.5
+371,Kanpur,Cafe,4,83,6.9
+372,Ahmedabad,Italian,7,57,7.4
+373,Nagpur,Ice Cream,3,236,8.3
+374,Delhi,Cafe,6,263,9.8
+375,Kanpur,Bakery,9,249,8.0
+376,Kolkata,Cafe,1,226,8.7
+377,Bangalore,North Indian,5,128,7.5
+378,Pune,Cafe,4,194,8.2
+379,Vadodara,South Indian,8,237,5.4
+380,Kanpur,Cafe,1,136,6.3
+381,Raipur,Bakery,9,137,6.8
+382,Bangalore,Veg,6,222,7.4
+383,Bhopal,Mughlai,4,260,5.2
+384,Bangalore,Cafe,9,118,5.7
+385,Lucknow,Mughlai,5,209,6.4
+386,Patna,Vegan,5,221,9.9
+387,Bhopal,South Indian,5,242,6.7
+388,Bhubaneswar,Ice Cream,1,136,7.4
+389,Bangalore,Veg,1,150,6.0
+390,Vadodara,Seafood,8,57,8.1
+391,Kanpur,BBQ,8,126,6.4
+392,Kanpur,Ice Cream,6,249,6.0
+393,Kolkata,Non-Veg,4,298,7.6
+394,Chennai,Cafe,2,136,5.0
+395,Delhi,Ice Cream,2,92,5.0
+396,Bangalore,Street Food,9,178,6.1
+397,Indore,Dessert,5,158,5.2
+398,Bangalore,Veg,4,228,5.5
+399,Chennai,South Indian,1,201,6.7
+400,Mumbai,Bakery,7,276,9.0
+401,Bhubaneswar,Beverage,3,201,7.9
+402,Indore,Chinese,6,66,7.6
+403,Raipur,Chinese,5,182,6.5
+404,Delhi,Seafood,5,197,9.7
+405,Bangalore,Non-Veg,5,70,7.0
+406,Nagpur,Veg,1,281,5.4
+407,Chennai,Ice Cream,1,107,8.1
+408,Kanpur,Bakery,3,208,5.6
+409,Kanpur,South Indian,4,159,6.7
+410,Mumbai,Veg,5,277,7.5
+411,Patna,Beverage,2,188,9.4
+412,Bhubaneswar,South Indian,8,229,7.5
+413,Vadodara,BBQ,2,192,8.5
+414,Ranchi,Fast Food,9,260,10.0
+415,Pune,Beverage,2,184,5.7
+416,Delhi,Veg,9,292,6.4
+417,Delhi,BBQ,7,77,7.0
+418,Raipur,South Indian,8,100,7.1
+419,Surat,Non-Veg,2,284,7.1
+420,Bangalore,Beverage,7,235,9.5
+421,Vadodara,Seafood,6,54,8.6
+422,Pune,Seafood,4,54,8.0
+423,Delhi,Italian,7,143,6.5
+424,Delhi,Vegan,4,295,9.1
+425,Ahmedabad,Dessert,2,145,9.8
+426,Indore,Fast Food,7,57,9.1
+427,Surat,Seafood,8,113,5.0
+428,Vadodara,Vegan,2,187,8.2
+429,Nagpur,Ice Cream,5,87,5.3
+430,Vadodara,Bakery,1,160,6.3
+431,Bhopal,Chinese,7,273,5.3
+432,Mumbai,Bakery,8,161,8.0
+433,Raipur,Veg,6,269,8.4
+434,Ranchi,Vegan,5,130,5.6
+435,Pune,Dessert,6,272,6.9
+436,Patna,Ice Cream,2,185,7.3
+437,Ahmedabad,Non-Veg,1,153,6.8
+438,Indore,Veg,7,202,5.6
+439,Mumbai,BBQ,7,122,7.1
+440,Raipur,Fast Food,2,243,8.8
+441,Jaipur,Italian,2,256,5.4
+442,Kolkata,Chinese,1,227,5.4
+443,Chennai,Non-Veg,8,244,6.8
+444,Ranchi,Beverage,8,98,9.7
+445,Nagpur,Mexican,1,85,8.3
+446,Surat,Fast Food,8,175,8.4
+447,Chennai,Fast Food,9,117,6.8
+448,Chennai,Street Food,4,127,8.0
+449,Indore,North Indian,1,154,5.1
+450,Bangalore,Non-Veg,1,218,8.2
+451,Jaipur,Mexican,3,266,9.6
+452,Pune,Beverage,5,171,8.1
+453,Patna,Mexican,5,168,9.4
+454,Pune,Cafe,9,239,8.6
+455,Kanpur,Chinese,2,163,5.6
+456,Chennai,Seafood,2,59,9.5
+457,Ranchi,Cafe,6,198,5.3
+458,Patna,Ice Cream,9,213,7.7
+459,Kolkata,Cafe,1,189,5.7
+460,Bangalore,Seafood,9,140,5.1
+461,Vadodara,North Indian,9,281,7.1
+462,Patna,South Indian,9,51,6.5
+463,Nagpur,Non-Veg,5,167,7.4
+464,Pune,Mughlai,9,62,7.9
+465,Jaipur,Bakery,4,230,5.2
+466,Patna,North Indian,2,209,5.6
+467,Patna,Italian,6,144,7.8
+468,Bhubaneswar,Seafood,4,193,6.7
+469,Kanpur,Dessert,6,81,8.6
+470,Nagpur,Mughlai,3,81,8.3
+471,Raipur,Non-Veg,6,173,9.2
+472,Patna,Fast Food,2,275,8.5
+473,Chennai,Italian,2,60,7.1
+474,Vadodara,Street Food,9,59,8.4
+475,Jaipur,Ice Cream,7,64,6.4
+476,Raipur,Chinese,3,66,6.5
+477,Vadodara,Dessert,1,217,8.9
+478,Jaipur,North Indian,8,195,7.2
+479,Kolkata,Street Food,6,232,9.0
+480,Bhopal,Non-Veg,7,250,9.1
+481,Bhubaneswar,Cafe,9,202,9.3
+482,Raipur,Fast Food,5,281,9.6
+483,Lucknow,Street Food,1,108,7.2
+484,Kanpur,Mexican,7,127,6.6
+485,Bangalore,Chinese,5,173,7.9
+486,Pune,Street Food,3,299,6.9
+487,Vadodara,South Indian,9,266,8.0
+488,Bhubaneswar,Non-Veg,1,163,8.5
+489,Chennai,Mexican,1,71,8.4
+490,Kanpur,Mughlai,1,293,6.9
+491,Kolkata,Bakery,3,207,5.8
+492,Nagpur,Chinese,6,261,7.2
+493,Indore,Mughlai,3,262,5.7
+494,Kolkata,Cafe,8,221,9.5
+495,Bhopal,Seafood,2,81,6.7
+496,Bangalore,Non-Veg,9,228,5.8
+497,Pune,Italian,3,223,5.1
+498,Surat,Veg,5,162,8.2
+499,Surat,Dessert,8,169,8.2
+500,Ranchi,Italian,2,198,6.7
+501,Lucknow,South Indian,6,276,5.4
+502,Vadodara,Italian,5,171,7.0
+503,Jaipur,Dessert,9,81,6.6
+504,Indore,Cafe,5,271,8.4
+505,Vadodara,Bakery,2,168,8.0
+506,Patna,South Indian,5,88,6.8
+507,Hyderabad,Beverage,4,290,6.1
+508,Kolkata,Non-Veg,7,61,9.9
+509,Bhopal,BBQ,6,282,7.3
+510,Nagpur,Fast Food,2,224,8.4
+511,Ahmedabad,Veg,5,67,5.7
+512,Indore,Dessert,7,198,7.4
+513,Jaipur,BBQ,7,190,5.1
+514,Ranchi,Beverage,5,198,7.5
+515,Mumbai,Italian,9,175,9.8
+516,Bangalore,Cafe,4,185,6.9
+517,Bangalore,Mughlai,3,95,5.2
+518,Hyderabad,Italian,4,153,5.2
+519,Raipur,Non-Veg,5,287,6.9
+520,Ahmedabad,North Indian,6,184,5.8
+521,Kanpur,Non-Veg,3,200,5.1
+522,Nagpur,North Indian,2,285,8.8
+523,Delhi,North Indian,4,273,7.3
+524,Bhubaneswar,South Indian,5,252,6.4
+525,Patna,Cafe,4,135,9.5
+526,Kolkata,Veg,3,199,5.6
+527,Nagpur,Italian,8,284,9.8
+528,Chennai,South Indian,4,138,6.6
+529,Chennai,Chinese,2,71,9.4
+530,Hyderabad,Bakery,2,141,8.0
+531,Raipur,Beverage,1,78,9.1
+532,Vadodara,Beverage,4,62,9.9
+533,Kolkata,Ice Cream,9,259,6.4
+534,Indore,Fast Food,7,51,9.8
+535,Raipur,Mexican,7,78,6.9
+536,Kolkata,Mexican,7,262,6.9
+537,Pune,Street Food,8,256,6.7
+538,Nagpur,Non-Veg,1,229,7.7
+539,Nagpur,Mexican,8,76,5.8
+540,Ranchi,Fast Food,4,99,7.8
+541,Bhubaneswar,Mexican,4,144,7.7
+542,Ahmedabad,Cafe,4,256,8.8
+543,Jaipur,Cafe,6,292,9.2
+544,Kolkata,Chinese,7,200,7.2
+545,Delhi,Cafe,6,137,6.5
+546,Pune,BBQ,1,93,6.3
+547,Nagpur,Mexican,8,254,6.0
+548,Patna,Vegan,7,71,5.3
+549,Delhi,South Indian,6,220,6.7
+550,Hyderabad,Cafe,6,214,6.4
+551,Hyderabad,Fast Food,5,238,9.8
+552,Vadodara,Vegan,6,146,7.8
+553,Nagpur,Street Food,9,233,6.7
+554,Nagpur,South Indian,9,52,7.9
+555,Lucknow,Ice Cream,8,240,5.7
+556,Kanpur,Mexican,9,167,7.2
+557,Surat,BBQ,8,68,8.1
+558,Bangalore,North Indian,8,72,7.4
+559,Chennai,Mughlai,1,206,7.0
+560,Pune,BBQ,5,79,10.0
+561,Raipur,Chinese,4,88,9.4
+562,Bhubaneswar,Vegan,2,157,8.1
+563,Ranchi,Bakery,8,160,7.8
+564,Lucknow,Cafe,3,74,8.1
+565,Jaipur,Bakery,4,177,6.0
+566,Patna,Seafood,7,278,7.0
+567,Bhopal,BBQ,9,160,5.2
+568,Lucknow,Bakery,2,185,7.4
+569,Delhi,North Indian,3,155,7.7
+570,Pune,Vegan,4,235,6.1
+571,Kanpur,South Indian,1,193,9.8
+572,Surat,Ice Cream,7,121,9.5
+573,Vadodara,Ice Cream,2,178,8.6
+574,Indore,Bakery,5,157,7.7
+575,Kanpur,Beverage,1,54,9.3
+576,Ahmedabad,Ice Cream,3,52,5.7
+577,Hyderabad,Chinese,2,242,9.0
+578,Vadodara,Bakery,1,181,5.6
+579,Ahmedabad,Cafe,7,153,9.0
+580,Chennai,Seafood,5,276,6.4
+581,Ahmedabad,Beverage,1,273,9.4
+582,Ranchi,Mexican,6,113,9.7
+583,Bangalore,Mughlai,5,155,5.7
+584,Jaipur,Non-Veg,3,147,7.3
+585,Chennai,Beverage,7,284,9.9
+586,Patna,Fast Food,9,266,7.4
+587,Jaipur,Italian,9,59,9.3
+588,Delhi,South Indian,9,198,7.9
+589,Bhubaneswar,Mexican,2,177,6.9
+590,Nagpur,Bakery,3,95,6.4
+591,Kanpur,BBQ,7,280,6.0
+592,Nagpur,Cafe,5,268,8.8
+593,Bhopal,Dessert,2,204,6.9
+594,Pune,Mughlai,3,115,7.6
+595,Hyderabad,Ice Cream,6,218,7.5
+596,Ranchi,Veg,7,161,7.9
+597,Raipur,Vegan,9,62,9.3
+598,Bangalore,Mughlai,1,186,9.9
+599,Lucknow,Chinese,7,293,7.0
+600,Mumbai,Mexican,8,213,9.1
