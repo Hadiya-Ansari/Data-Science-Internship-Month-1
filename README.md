@@ -1,4 +1,4 @@
-📊 Data Science Internship – Practical Tasks & Mini Project
+
 
 📌 Overview
 This repository showcases hands-on work completed during a Data Science Internship, covering Python fundamentals, data manipulation, data cleaning, exploratory data analysis (EDA), and an end-to-end analytical mini project with business insights.
