@@ -1,0 +1,551 @@
+Customer_ID,Age,Gender,Product_Category,Purchase_Amount,Payment_Method,Rating,Spending_Level,Customer_Age_Group,Rating_Category
+CUST_1000,31,Male,Electronics,3431,Cash,1,High,26-35,Needs Improvement
+CUST_1001,49,Female,Beauty,1200,Credit Card,1,Low,46-60,Needs Improvement
+CUST_1002,25,Male,Furniture,1289,UPI,1,Low,18-25,Needs Improvement
+CUST_1003,47,Female,Pet Supplies,4157,Cash,1,High,46-60,Needs Improvement
+CUST_1004,43,Male,Sports & Fitness,2263,Credit Card,3,Medium,36-45,Needs Improvement
+CUST_1005,40,Male,Beauty,1900,Credit Card,1,Medium,36-45,Needs Improvement
+CUST_1006,23,Female,Toys,1149,Cash,4,Low,18-25,Positive
+CUST_1007,36,Male,Pet Supplies,427,Cash,1,Low,36-45,Needs Improvement
+CUST_1008,58,Male,Footwear,4027,Credit Card,4,High,46-60,Positive
+CUST_1009,48,Male,Sports & Fitness,1657,Debit Card,1,Medium,46-60,Needs Improvement
+CUST_1010,31,Male,Books,3396,Credit Card,2,High,26-35,Needs Improvement
+CUST_1011,35,Female,Sports & Fitness,2468,Debit Card,1,Medium,26-35,Needs Improvement
+CUST_1012,30,Male,Home,1631,Credit Card,4,Medium,26-35,Positive
+CUST_1013,56,Male,Groceries,1453,UPI,4,Low,46-60,Positive
+CUST_1014,53,Male,Pet Supplies,1816,Credit Card,4,Medium,46-60,Positive
+CUST_1015,27,Male,Furniture,4821,Cash,5,High,26-35,Positive
+CUST_1016,38,Male,Automotive,2815,UPI,1,Medium,36-45,Needs Improvement
+CUST_1017,40,Male,Books,1889,UPI,1,Medium,36-45,Needs Improvement
+CUST_1018,21,Female,Electronics,4787,Debit Card,5,High,18-25,Positive
+CUST_1019,49,Male,Clothing,1899,Credit Card,4,Medium,46-60,Positive
+CUST_1020,48,Female,Books,3618,Credit Card,5,High,46-60,Positive
+CUST_1021,46,Female,Books,3277,Credit Card,1,High,46-60,Needs Improvement
+CUST_1022,60,Male,Jewellery,1611,Debit Card,2,Medium,46-60,Needs Improvement
+CUST_1023,48,Male,Sports & Fitness,3660,Credit Card,1,High,46-60,Needs Improvement
+CUST_1024,40,Female,Books,2785,Credit Card,2,Medium,36-45,Needs Improvement
+CUST_1025,22,Female,Health & Wellness,4663,Cash,3,High,18-25,Needs Improvement
+CUST_1026,27,Female,Beauty,4823,Credit Card,5,High,26-35,Positive
+CUST_1027,29,Female,Home,4048,Debit Card,1,High,26-35,Needs Improvement
+CUST_1028,48,Male,Jewellery,3684,Credit Card,4,High,46-60,Positive
+CUST_1029,36,Female,Books,3903,UPI,2,High,36-45,Needs Improvement
+CUST_1030,19,Male,Automotive,3673,Cash,4,High,18-25,Positive
+CUST_1031,18,Male,Pet Supplies,3258,Credit Card,3,High,18-25,Needs Improvement
+CUST_1032,41,Female,Books,1955,Debit Card,4,Medium,36-45,Positive
+CUST_1033,41,Male,Health & Wellness,3746,Debit Card,1,High,36-45,Needs Improvement
+CUST_1034,32,Female,Automotive,3498,Debit Card,4,High,26-35,Positive
+CUST_1035,49,Male,Groceries,3419,Debit Card,2,High,46-60,Needs Improvement
+CUST_1036,41,Male,Books,3284,Cash,1,High,36-45,Needs Improvement
+CUST_1037,51,Male,Books,1595,UPI,5,Medium,46-60,Positive
+CUST_1038,38,Female,Sports & Fitness,3256,Cash,3,High,36-45,Needs Improvement
+CUST_1039,44,Female,Furniture,2532,UPI,4,Medium,36-45,Positive
+CUST_1040,60,Female,Groceries,3371,Debit Card,3,High,46-60,Needs Improvement
+CUST_1041,24,Female,Stationery,3494,Credit Card,4,High,18-25,Positive
+CUST_1042,24,Female,Books,3191,UPI,1,High,18-25,Needs Improvement
+CUST_1043,59,Male,Automotive,3816,Debit Card,2,High,46-60,Needs Improvement
+CUST_1044,51,Female,Health & Wellness,4746,Credit Card,3,High,46-60,Needs Improvement
+CUST_1045,20,Female,Clothing,1807,UPI,1,Medium,18-25,Needs Improvement
+CUST_1046,48,Male,Jewellery,2415,Credit Card,1,Medium,46-60,Needs Improvement
+CUST_1047,37,Male,Home,4501,Debit Card,4,High,36-45,Positive
+CUST_1048,21,Male,Home,2544,Credit Card,3,Medium,18-25,Needs Improvement
+CUST_1049,58,Female,Automotive,4194,Cash,5,High,46-60,Positive
+CUST_1050,24,Male,Clothing,1495,Credit Card,5,Low,18-25,Positive
+CUST_1051,60,Male,Electronics,3799,UPI,2,High,46-60,Needs Improvement
+CUST_1052,53,Female,Electronics,1309,Credit Card,3,Low,46-60,Needs Improvement
+CUST_1053,48,Male,Books,4512,Credit Card,1,High,46-60,Needs Improvement
+CUST_1054,46,Female,Clothing,2596,Cash,2,Medium,46-60,Needs Improvement
+CUST_1055,55,Male,Sports & Fitness,4615,Cash,5,High,46-60,Positive
+CUST_1056,36,Female,Health & Wellness,4163,Cash,2,High,36-45,Needs Improvement
+CUST_1057,51,Male,Health & Wellness,2243,Cash,5,Medium,46-60,Positive
+CUST_1058,24,Male,Beauty,4794,Debit Card,1,High,18-25,Needs Improvement
+CUST_1059,56,Male,Home,2667,Debit Card,5,Medium,46-60,Positive
+CUST_1060,58,Male,Furniture,3818,Debit Card,2,High,46-60,Needs Improvement
+CUST_1061,46,Female,Home,1939,Cash,2,Medium,46-60,Needs Improvement
+CUST_1062,31,Female,Furniture,600,Credit Card,5,Low,26-35,Positive
+CUST_1063,51,Female,Pet Supplies,1407,Debit Card,2,Low,46-60,Needs Improvement
+CUST_1064,46,Male,Furniture,4325,Cash,5,High,46-60,Positive
+CUST_1065,33,Female,Clothing,1265,Debit Card,5,Low,26-35,Positive
+CUST_1066,32,Female,Home,3790,Cash,2,High,26-35,Needs Improvement
+CUST_1067,52,Male,Furniture,3683,UPI,5,High,46-60,Positive
+CUST_1068,51,Male,Toys,1166,Debit Card,3,Low,46-60,Needs Improvement
+CUST_1069,21,Female,Sports & Fitness,683,UPI,5,Low,18-25,Positive
+CUST_1070,55,Male,Jewellery,3042,UPI,2,High,46-60,Needs Improvement
+CUST_1071,42,Female,Toys,757,Debit Card,1,Low,36-45,Needs Improvement
+CUST_1072,45,Female,Stationery,4863,Cash,2,High,36-45,Needs Improvement
+CUST_1073,37,Female,Beauty,2150,Cash,5,Medium,36-45,Positive
+CUST_1074,56,Female,Automotive,2372,Debit Card,5,Medium,46-60,Positive
+CUST_1075,34,Male,Toys,3588,UPI,1,High,26-35,Needs Improvement
+CUST_1076,55,Female,Clothing,588,Credit Card,2,Low,46-60,Needs Improvement
+CUST_1077,54,Male,Stationery,4756,UPI,4,High,46-60,Positive
+CUST_1078,41,Male,Toys,4855,UPI,4,High,36-45,Positive
+CUST_1079,19,Female,Clothing,1514,UPI,1,Medium,18-25,Needs Improvement
+CUST_1080,27,Female,Furniture,1033,Cash,4,Low,26-35,Positive
+CUST_1081,38,Male,Toys,3359,Credit Card,5,High,36-45,Positive
+CUST_1082,31,Female,Furniture,1084,Credit Card,4,Low,26-35,Positive
+CUST_1083,25,Female,Beauty,2331,Cash,5,Medium,18-25,Positive
+CUST_1084,28,Male,Groceries,4270,Credit Card,5,High,26-35,Positive
+CUST_1085,19,Male,Health & Wellness,1144,Debit Card,2,Low,18-25,Needs Improvement
+CUST_1086,40,Female,Clothing,3836,Credit Card,4,High,36-45,Positive
+CUST_1087,55,Male,Beauty,3293,UPI,2,High,46-60,Needs Improvement
+CUST_1088,46,Female,Automotive,808,Credit Card,2,Low,46-60,Needs Improvement
+CUST_1089,53,Male,Health & Wellness,3672,UPI,2,High,46-60,Needs Improvement
+CUST_1090,21,Female,Sports & Fitness,2024,Credit Card,4,Medium,18-25,Positive
+CUST_1091,22,Male,Toys,3450,Cash,5,High,18-25,Positive
+CUST_1092,56,Male,Pet Supplies,568,Cash,5,Low,46-60,Positive
+CUST_1093,48,Female,Clothing,432,Cash,2,Low,46-60,Needs Improvement
+CUST_1094,37,Male,Stationery,1508,Credit Card,5,Medium,36-45,Positive
+CUST_1095,33,Female,Jewellery,1805,Debit Card,2,Medium,26-35,Needs Improvement
+CUST_1096,46,Male,Clothing,3814,Credit Card,4,High,46-60,Positive
+CUST_1097,35,Male,Automotive,879,Credit Card,3,Low,26-35,Needs Improvement
+CUST_1098,21,Female,Toys,2489,Credit Card,5,Medium,18-25,Positive
+CUST_1099,55,Female,Toys,2849,Debit Card,5,Medium,46-60,Positive
+CUST_1100,31,Male,Health & Wellness,3884,UPI,5,High,26-35,Positive
+CUST_1101,47,Male,Automotive,1376,Credit Card,4,Low,46-60,Positive
+CUST_1102,42,Female,Groceries,1344,Credit Card,5,Low,36-45,Positive
+CUST_1103,35,Female,Toys,1199,UPI,3,Low,26-35,Needs Improvement
+CUST_1104,50,Male,Jewellery,2603,UPI,4,Medium,46-60,Positive
+CUST_1105,32,Male,Stationery,484,Credit Card,4,Low,26-35,Positive
+CUST_1106,37,Male,Stationery,3603,Debit Card,4,High,36-45,Positive
+CUST_1107,47,Female,Books,674,Credit Card,2,Low,46-60,Needs Improvement
+CUST_1108,39,Male,Groceries,1932,UPI,5,Medium,36-45,Positive
+CUST_1109,47,Male,Footwear,4308,UPI,2,High,46-60,Needs Improvement
+CUST_1110,46,Female,Automotive,2442,Cash,5,Medium,46-60,Positive
+CUST_1111,35,Male,Furniture,3295,Debit Card,1,High,26-35,Needs Improvement
+CUST_1112,38,Male,Sports & Fitness,2657,Cash,2,Medium,36-45,Needs Improvement
+CUST_1113,40,Female,Pet Supplies,2228,Cash,3,Medium,36-45,Needs Improvement
+CUST_1114,43,Male,Beauty,2092,Credit Card,4,Medium,36-45,Positive
+CUST_1115,58,Female,Clothing,1835,Credit Card,4,Medium,46-60,Positive
+CUST_1116,55,Male,Books,530,Debit Card,1,Low,46-60,Needs Improvement
+CUST_1117,36,Male,Automotive,2171,Debit Card,4,Medium,36-45,Positive
+CUST_1118,50,Male,Books,1115,Credit Card,5,Low,46-60,Positive
+CUST_1119,31,Male,Stationery,1115,Cash,1,Low,26-35,Needs Improvement
+CUST_1120,33,Male,Clothing,1567,Credit Card,1,Medium,26-35,Needs Improvement
+CUST_1121,53,Female,Books,1630,UPI,5,Medium,46-60,Positive
+CUST_1122,35,Male,Sports & Fitness,1183,UPI,4,Low,26-35,Positive
+CUST_1123,47,Male,Pet Supplies,1921,Cash,4,Medium,46-60,Positive
+CUST_1124,24,Male,Jewellery,3896,Debit Card,2,High,18-25,Needs Improvement
+CUST_1125,36,Female,Electronics,1564,UPI,4,Medium,36-45,Positive
+CUST_1126,40,Male,Electronics,3372,Credit Card,1,High,36-45,Needs Improvement
+CUST_1127,24,Female,Footwear,3905,Debit Card,2,High,18-25,Needs Improvement
+CUST_1128,19,Male,Health & Wellness,2780,UPI,2,Medium,18-25,Needs Improvement
+CUST_1129,31,Female,Electronics,861,UPI,4,Low,26-35,Positive
+CUST_1130,60,Male,Automotive,1663,Cash,4,Medium,46-60,Positive
+CUST_1131,39,Female,Pet Supplies,4406,Cash,2,High,36-45,Needs Improvement
+CUST_1132,37,Female,Health & Wellness,743,Credit Card,2,Low,36-45,Needs Improvement
+CUST_1133,51,Male,Jewellery,2416,Debit Card,3,Medium,46-60,Needs Improvement
+CUST_1134,49,Male,Automotive,2609,UPI,4,Medium,46-60,Positive
+CUST_1135,45,Male,Groceries,2588,UPI,1,Medium,36-45,Needs Improvement
+CUST_1136,37,Male,Pet Supplies,2312,UPI,5,Medium,36-45,Positive
+CUST_1137,49,Male,Home,1961,Credit Card,1,Medium,46-60,Needs Improvement
+CUST_1138,29,Female,Beauty,1062,Cash,2,Low,26-35,Needs Improvement
+CUST_1139,44,Female,Footwear,646,UPI,5,Low,36-45,Positive
+CUST_1140,23,Male,Pet Supplies,3954,Debit Card,1,High,18-25,Needs Improvement
+CUST_1141,34,Female,Toys,2625,Credit Card,4,Medium,26-35,Positive
+CUST_1142,49,Female,Groceries,1090,UPI,4,Low,46-60,Positive
+CUST_1143,31,Female,Stationery,794,Debit Card,3,Low,26-35,Needs Improvement
+CUST_1144,30,Female,Stationery,4247,Debit Card,1,High,26-35,Needs Improvement
+CUST_1145,19,Female,Groceries,2295,Credit Card,4,Medium,18-25,Positive
+CUST_1146,35,Male,Furniture,2086,Credit Card,3,Medium,26-35,Needs Improvement
+CUST_1147,44,Male,Health & Wellness,2868,Credit Card,2,Medium,36-45,Needs Improvement
+CUST_1148,38,Female,Sports & Fitness,1032,Cash,1,Low,36-45,Needs Improvement
+CUST_1149,23,Female,Electronics,4653,Cash,1,High,18-25,Needs Improvement
+CUST_1150,37,Female,Books,1903,UPI,5,Medium,36-45,Positive
+CUST_1151,41,Female,Pet Supplies,3737,Debit Card,1,High,36-45,Needs Improvement
+CUST_1152,22,Female,Footwear,4621,Debit Card,5,High,18-25,Positive
+CUST_1153,33,Female,Footwear,3737,UPI,4,High,26-35,Positive
+CUST_1154,38,Female,Stationery,3251,Credit Card,4,High,36-45,Positive
+CUST_1155,44,Female,Automotive,3045,Cash,4,High,36-45,Positive
+CUST_1156,37,Male,Home,601,Debit Card,1,Low,36-45,Needs Improvement
+CUST_1157,29,Male,Pet Supplies,4860,Credit Card,2,High,26-35,Needs Improvement
+CUST_1158,34,Male,Groceries,2174,Credit Card,3,Medium,26-35,Needs Improvement
+CUST_1159,58,Male,Home,541,UPI,5,Low,46-60,Positive
+CUST_1160,51,Male,Automotive,1628,Debit Card,3,Medium,46-60,Needs Improvement
+CUST_1161,37,Male,Footwear,661,Credit Card,4,Low,36-45,Positive
+CUST_1162,39,Male,Sports & Fitness,1594,UPI,5,Medium,36-45,Positive
+CUST_1163,43,Female,Clothing,2391,Credit Card,4,Medium,36-45,Positive
+CUST_1164,49,Female,Sports & Fitness,1106,Cash,3,Low,46-60,Needs Improvement
+CUST_1165,45,Male,Health & Wellness,2943,Credit Card,4,Medium,36-45,Positive
+CUST_1166,33,Male,Sports & Fitness,2055,Debit Card,5,Medium,26-35,Positive
+CUST_1167,29,Female,Stationery,650,Debit Card,5,Low,26-35,Positive
+CUST_1168,51,Male,Electronics,659,UPI,3,Low,46-60,Needs Improvement
+CUST_1169,55,Female,Home,4500,Credit Card,1,High,46-60,Needs Improvement
+CUST_1170,43,Female,Footwear,3425,Debit Card,5,High,36-45,Positive
+CUST_1171,49,Female,Jewellery,3440,UPI,1,High,46-60,Needs Improvement
+CUST_1172,37,Female,Pet Supplies,617,UPI,3,Low,36-45,Needs Improvement
+CUST_1173,36,Male,Furniture,4792,Debit Card,3,High,36-45,Needs Improvement
+CUST_1174,43,Female,Books,2155,UPI,2,Medium,36-45,Needs Improvement
+CUST_1175,27,Male,Automotive,3660,Cash,4,High,26-35,Positive
+CUST_1176,60,Female,Furniture,3178,UPI,4,High,46-60,Positive
+CUST_1177,49,Male,Jewellery,1372,Cash,4,Low,46-60,Positive
+CUST_1178,29,Female,Sports & Fitness,4671,Credit Card,1,High,26-35,Needs Improvement
+CUST_1179,29,Male,Furniture,1974,Cash,5,Medium,26-35,Positive
+CUST_1180,32,Female,Jewellery,4312,Credit Card,3,High,26-35,Needs Improvement
+CUST_1181,22,Female,Footwear,552,Debit Card,2,Low,18-25,Needs Improvement
+CUST_1182,36,Female,Automotive,3948,Cash,1,High,36-45,Needs Improvement
+CUST_1183,42,Female,Home,2580,Credit Card,3,Medium,36-45,Needs Improvement
+CUST_1184,50,Male,Sports & Fitness,4100,Credit Card,2,High,46-60,Needs Improvement
+CUST_1185,60,Male,Toys,2736,Cash,1,Medium,46-60,Needs Improvement
+CUST_1186,36,Male,Home,4803,UPI,3,High,36-45,Needs Improvement
+CUST_1187,40,Male,Automotive,4384,Credit Card,5,High,36-45,Positive
+CUST_1188,45,Male,Books,4042,Debit Card,3,High,36-45,Needs Improvement
+CUST_1189,54,Female,Automotive,4545,UPI,1,High,46-60,Needs Improvement
+CUST_1190,27,Male,Electronics,1394,Cash,1,Low,26-35,Needs Improvement
+CUST_1191,20,Male,Furniture,4630,Cash,1,High,18-25,Needs Improvement
+CUST_1192,39,Male,Stationery,2736,UPI,3,Medium,36-45,Needs Improvement
+CUST_1193,57,Female,Automotive,4381,Credit Card,3,High,46-60,Needs Improvement
+CUST_1194,52,Male,Furniture,4396,Credit Card,1,High,46-60,Needs Improvement
+CUST_1195,52,Female,Sports & Fitness,4698,Debit Card,5,High,46-60,Positive
+CUST_1196,58,Male,Home,1535,Cash,3,Medium,46-60,Needs Improvement
+CUST_1197,28,Male,Footwear,3133,Credit Card,2,High,26-35,Needs Improvement
+CUST_1198,28,Male,Toys,1436,Credit Card,1,Low,26-35,Needs Improvement
+CUST_1199,44,Female,Beauty,2031,Credit Card,4,Medium,36-45,Positive
+CUST_1200,57,Male,Health & Wellness,348,Credit Card,1,Low,46-60,Needs Improvement
+CUST_1201,21,Female,Sports & Fitness,4924,Cash,2,High,18-25,Needs Improvement
+CUST_1202,22,Male,Jewellery,3551,Cash,1,High,18-25,Needs Improvement
+CUST_1203,25,Female,Stationery,2624,Cash,1,Medium,18-25,Needs Improvement
+CUST_1204,50,Male,Furniture,3721,Credit Card,5,High,46-60,Positive
+CUST_1205,43,Male,Footwear,3234,Credit Card,5,High,36-45,Positive
+CUST_1206,24,Male,Pet Supplies,619,Debit Card,4,Low,18-25,Positive
+CUST_1207,25,Female,Pet Supplies,3003,Credit Card,4,High,18-25,Positive
+CUST_1208,42,Male,Books,1478,UPI,4,Low,36-45,Positive
+CUST_1209,42,Male,Groceries,1351,Debit Card,3,Low,36-45,Needs Improvement
+CUST_1210,28,Female,Automotive,1084,Cash,1,Low,26-35,Needs Improvement
+CUST_1211,33,Male,Home,911,Credit Card,1,Low,26-35,Needs Improvement
+CUST_1212,34,Male,Furniture,1614,Cash,5,Medium,26-35,Positive
+CUST_1213,22,Female,Beauty,1996,Debit Card,1,Medium,18-25,Needs Improvement
+CUST_1214,40,Male,Clothing,3606,Cash,2,High,36-45,Needs Improvement
+CUST_1215,34,Female,Clothing,797,Debit Card,3,Low,26-35,Needs Improvement
+CUST_1216,47,Male,Books,4405,Debit Card,4,High,46-60,Positive
+CUST_1217,41,Female,Groceries,4732,Debit Card,1,High,36-45,Needs Improvement
+CUST_1218,28,Female,Clothing,3859,Cash,3,High,26-35,Needs Improvement
+CUST_1219,33,Male,Stationery,4606,Debit Card,1,High,26-35,Needs Improvement
+CUST_1220,52,Male,Pet Supplies,4744,Credit Card,1,High,46-60,Needs Improvement
+CUST_1221,44,Male,Furniture,3323,Debit Card,1,High,36-45,Needs Improvement
+CUST_1222,35,Female,Furniture,3142,UPI,1,High,26-35,Needs Improvement
+CUST_1223,23,Female,Clothing,4673,UPI,5,High,18-25,Positive
+CUST_1224,35,Female,Clothing,3639,Credit Card,3,High,26-35,Needs Improvement
+CUST_1225,34,Female,Furniture,870,Credit Card,1,Low,26-35,Needs Improvement
+CUST_1226,53,Male,Beauty,2438,Cash,1,Medium,46-60,Needs Improvement
+CUST_1227,30,Male,Health & Wellness,1870,Debit Card,1,Medium,26-35,Needs Improvement
+CUST_1228,39,Female,Toys,3988,Debit Card,5,High,36-45,Positive
+CUST_1229,33,Female,Clothing,2255,UPI,4,Medium,26-35,Positive
+CUST_1230,60,Male,Health & Wellness,3831,Cash,5,High,46-60,Positive
+CUST_1231,26,Female,Furniture,4576,Debit Card,4,High,26-35,Positive
+CUST_1232,38,Female,Sports & Fitness,1055,Credit Card,5,Low,36-45,Positive
+CUST_1233,58,Female,Jewellery,1765,UPI,5,Medium,46-60,Positive
+CUST_1234,56,Male,Electronics,1011,Credit Card,4,Low,46-60,Positive
+CUST_1235,47,Male,Electronics,3645,UPI,1,High,46-60,Needs Improvement
+CUST_1236,39,Female,Beauty,359,UPI,5,Low,36-45,Positive
+CUST_1237,56,Male,Electronics,1336,Credit Card,5,Low,46-60,Positive
+CUST_1238,40,Female,Groceries,4082,Credit Card,3,High,36-45,Needs Improvement
+CUST_1239,58,Female,Clothing,3902,Credit Card,1,High,46-60,Needs Improvement
+CUST_1240,51,Female,Groceries,3991,Cash,1,High,46-60,Needs Improvement
+CUST_1241,45,Male,Beauty,3729,UPI,1,High,36-45,Needs Improvement
+CUST_1242,41,Male,Books,4824,Credit Card,3,High,36-45,Needs Improvement
+CUST_1243,43,Male,Jewellery,842,UPI,2,Low,36-45,Needs Improvement
+CUST_1244,21,Female,Books,2756,Cash,1,Medium,18-25,Needs Improvement
+CUST_1245,55,Male,Pet Supplies,4684,UPI,3,High,46-60,Needs Improvement
+CUST_1246,26,Female,Furniture,1643,Debit Card,4,Medium,26-35,Positive
+CUST_1247,59,Male,Beauty,1739,Cash,2,Medium,46-60,Needs Improvement
+CUST_1248,60,Female,Books,3889,Credit Card,5,High,46-60,Positive
+CUST_1249,58,Female,Clothing,1654,Credit Card,1,Medium,46-60,Needs Improvement
+CUST_1250,56,Female,Electronics,898,UPI,1,Low,46-60,Needs Improvement
+CUST_1251,43,Female,Jewellery,3066,Credit Card,4,High,36-45,Positive
+CUST_1252,35,Female,Health & Wellness,4730,Cash,1,High,26-35,Needs Improvement
+CUST_1253,24,Female,Sports & Fitness,538,Debit Card,4,Low,18-25,Positive
+CUST_1254,22,Male,Sports & Fitness,2204,Credit Card,4,Medium,18-25,Positive
+CUST_1255,50,Male,Electronics,4135,UPI,3,High,46-60,Needs Improvement
+CUST_1256,28,Male,Furniture,1312,UPI,2,Low,26-35,Needs Improvement
+CUST_1257,31,Male,Jewellery,2486,UPI,5,Medium,26-35,Positive
+CUST_1258,33,Male,Pet Supplies,442,Cash,3,Low,26-35,Needs Improvement
+CUST_1259,50,Male,Automotive,516,Debit Card,4,Low,46-60,Positive
+CUST_1260,32,Male,Furniture,2965,Debit Card,2,Medium,26-35,Needs Improvement
+CUST_1261,52,Female,Beauty,2826,Debit Card,5,Medium,46-60,Positive
+CUST_1262,39,Female,Furniture,618,UPI,2,Low,36-45,Needs Improvement
+CUST_1263,42,Female,Automotive,2608,UPI,3,Medium,36-45,Needs Improvement
+CUST_1264,48,Female,Beauty,3513,UPI,1,High,46-60,Needs Improvement
+CUST_1265,27,Male,Pet Supplies,1505,Debit Card,3,Medium,26-35,Needs Improvement
+CUST_1266,19,Female,Automotive,2836,Debit Card,1,Medium,18-25,Needs Improvement
+CUST_1267,44,Male,Groceries,990,Debit Card,3,Low,36-45,Needs Improvement
+CUST_1268,56,Female,Electronics,2750,Debit Card,5,Medium,46-60,Positive
+CUST_1269,25,Male,Footwear,406,Debit Card,4,Low,18-25,Positive
+CUST_1270,50,Female,Footwear,4436,Cash,5,High,46-60,Positive
+CUST_1271,28,Female,Groceries,1592,Credit Card,5,Medium,26-35,Positive
+CUST_1272,20,Male,Health & Wellness,967,Debit Card,5,Low,18-25,Positive
+CUST_1273,21,Female,Home,1894,Credit Card,2,Medium,18-25,Needs Improvement
+CUST_1274,24,Female,Stationery,1284,Credit Card,2,Low,18-25,Needs Improvement
+CUST_1275,40,Female,Groceries,3247,UPI,1,High,36-45,Needs Improvement
+CUST_1276,45,Female,Books,4893,Debit Card,5,High,36-45,Positive
+CUST_1277,33,Female,Furniture,4660,Debit Card,1,High,26-35,Needs Improvement
+CUST_1278,18,Male,Stationery,2101,Credit Card,2,Medium,18-25,Needs Improvement
+CUST_1279,32,Female,Automotive,2908,Debit Card,3,Medium,26-35,Needs Improvement
+CUST_1280,34,Male,Books,1658,Debit Card,2,Medium,26-35,Needs Improvement
+CUST_1281,53,Female,Books,1707,Credit Card,3,Medium,46-60,Needs Improvement
+CUST_1282,28,Male,Home,3041,UPI,4,High,26-35,Positive
+CUST_1283,43,Female,Stationery,300,UPI,1,Low,36-45,Needs Improvement
+CUST_1284,53,Female,Furniture,337,Credit Card,1,Low,46-60,Needs Improvement
+CUST_1285,58,Female,Groceries,1604,Credit Card,4,Medium,46-60,Positive
+CUST_1286,43,Female,Clothing,1628,Debit Card,3,Medium,36-45,Needs Improvement
+CUST_1287,59,Female,Clothing,431,Credit Card,4,Low,46-60,Positive
+CUST_1288,41,Male,Footwear,1402,Credit Card,4,Low,36-45,Positive
+CUST_1289,52,Male,Beauty,4238,UPI,5,High,46-60,Positive
+CUST_1290,46,Male,Footwear,3108,Credit Card,1,High,46-60,Needs Improvement
+CUST_1291,50,Male,Beauty,4967,Cash,1,High,46-60,Needs Improvement
+CUST_1292,55,Female,Beauty,1123,UPI,2,Low,46-60,Needs Improvement
+CUST_1293,59,Female,Electronics,3787,Credit Card,1,High,46-60,Needs Improvement
+CUST_1294,36,Male,Home,4912,Debit Card,4,High,36-45,Positive
+CUST_1295,19,Male,Health & Wellness,2811,Cash,3,Medium,18-25,Needs Improvement
+CUST_1296,41,Male,Jewellery,4701,Debit Card,5,High,36-45,Positive
+CUST_1297,31,Female,Furniture,4675,Debit Card,5,High,26-35,Positive
+CUST_1298,38,Female,Jewellery,654,Cash,3,Low,36-45,Needs Improvement
+CUST_1299,40,Female,Home,4035,Cash,3,High,36-45,Needs Improvement
+CUST_1300,55,Female,Sports & Fitness,2013,Debit Card,3,Medium,46-60,Needs Improvement
+CUST_1301,23,Male,Books,4366,Credit Card,2,High,18-25,Needs Improvement
+CUST_1302,43,Female,Pet Supplies,4961,UPI,3,High,36-45,Needs Improvement
+CUST_1303,44,Female,Books,1941,Credit Card,4,Medium,36-45,Positive
+CUST_1304,38,Male,Jewellery,3514,Cash,5,High,36-45,Positive
+CUST_1305,48,Female,Groceries,1329,Debit Card,4,Low,46-60,Positive
+CUST_1306,25,Female,Automotive,1556,Debit Card,2,Medium,18-25,Needs Improvement
+CUST_1307,29,Female,Clothing,579,UPI,3,Low,26-35,Needs Improvement
+CUST_1308,25,Female,Pet Supplies,2585,Debit Card,3,Medium,18-25,Needs Improvement
+CUST_1309,56,Male,Books,4842,Debit Card,3,High,46-60,Needs Improvement
+CUST_1310,54,Female,Books,4426,Cash,2,High,46-60,Needs Improvement
+CUST_1311,50,Female,Electronics,554,Cash,4,Low,46-60,Positive
+CUST_1312,37,Male,Clothing,1791,UPI,5,Medium,36-45,Positive
+CUST_1313,40,Female,Jewellery,1205,UPI,3,Low,36-45,Needs Improvement
+CUST_1314,29,Male,Electronics,4651,UPI,4,High,26-35,Positive
+CUST_1315,58,Female,Stationery,2196,Debit Card,2,Medium,46-60,Needs Improvement
+CUST_1316,48,Male,Health & Wellness,1152,Cash,2,Low,46-60,Needs Improvement
+CUST_1317,45,Female,Jewellery,1779,Debit Card,4,Medium,36-45,Positive
+CUST_1318,18,Male,Clothing,4165,Credit Card,1,High,18-25,Needs Improvement
+CUST_1319,26,Female,Furniture,1785,Debit Card,2,Medium,26-35,Needs Improvement
+CUST_1320,20,Male,Toys,1571,Cash,3,Medium,18-25,Needs Improvement
+CUST_1321,46,Male,Health & Wellness,1032,Credit Card,1,Low,46-60,Needs Improvement
+CUST_1322,41,Female,Books,4965,Cash,3,High,36-45,Needs Improvement
+CUST_1323,38,Male,Furniture,4882,Cash,3,High,36-45,Needs Improvement
+CUST_1324,37,Female,Furniture,382,UPI,4,Low,36-45,Positive
+CUST_1325,26,Female,Pet Supplies,3116,Credit Card,1,High,26-35,Needs Improvement
+CUST_1326,48,Female,Sports & Fitness,2333,Debit Card,1,Medium,46-60,Needs Improvement
+CUST_1327,22,Female,Jewellery,2262,Debit Card,3,Medium,18-25,Needs Improvement
+CUST_1328,46,Male,Toys,3661,Cash,2,High,46-60,Needs Improvement
+CUST_1329,44,Female,Furniture,2834,Credit Card,3,Medium,36-45,Needs Improvement
+CUST_1330,28,Female,Furniture,3226,Cash,3,High,26-35,Needs Improvement
+CUST_1331,31,Male,Automotive,4024,Credit Card,5,High,26-35,Positive
+CUST_1332,55,Female,Groceries,972,Debit Card,1,Low,46-60,Needs Improvement
+CUST_1333,53,Male,Books,4249,Cash,5,High,46-60,Positive
+CUST_1334,31,Male,Jewellery,2332,Cash,5,Medium,26-35,Positive
+CUST_1335,37,Female,Groceries,2118,UPI,5,Medium,36-45,Positive
+CUST_1336,41,Male,Stationery,2957,Debit Card,3,Medium,36-45,Needs Improvement
+CUST_1337,43,Male,Furniture,2291,Debit Card,5,Medium,36-45,Positive
+CUST_1338,40,Female,Health & Wellness,1744,Cash,5,Medium,36-45,Positive
+CUST_1339,44,Male,Home,3704,UPI,2,High,36-45,Needs Improvement
+CUST_1340,32,Male,Stationery,2378,Debit Card,2,Medium,26-35,Needs Improvement
+CUST_1341,34,Female,Pet Supplies,958,UPI,5,Low,26-35,Positive
+CUST_1342,18,Male,Footwear,1013,Credit Card,5,Low,18-25,Positive
+CUST_1343,39,Female,Pet Supplies,3987,Cash,1,High,36-45,Needs Improvement
+CUST_1344,53,Female,Home,3348,Credit Card,2,High,46-60,Needs Improvement
+CUST_1345,19,Male,Electronics,1504,Debit Card,3,Medium,18-25,Needs Improvement
+CUST_1346,31,Male,Jewellery,3681,Credit Card,2,High,26-35,Needs Improvement
+CUST_1347,38,Female,Groceries,387,Cash,2,Low,36-45,Needs Improvement
+CUST_1348,18,Male,Groceries,1652,Debit Card,1,Medium,18-25,Needs Improvement
+CUST_1349,53,Female,Toys,1166,Cash,3,Low,46-60,Needs Improvement
+CUST_1350,36,Female,Health & Wellness,2446,Debit Card,5,Medium,36-45,Positive
+CUST_1351,56,Female,Beauty,1610,Cash,5,Medium,46-60,Positive
+CUST_1352,35,Female,Home,2968,UPI,2,Medium,26-35,Needs Improvement
+CUST_1353,35,Female,Toys,1948,UPI,4,Medium,26-35,Positive
+CUST_1354,21,Male,Home,553,Cash,2,Low,18-25,Needs Improvement
+CUST_1355,32,Female,Stationery,977,UPI,4,Low,26-35,Positive
+CUST_1356,33,Female,Beauty,1744,Debit Card,5,Medium,26-35,Positive
+CUST_1357,20,Male,Clothing,1513,UPI,5,Medium,18-25,Positive
+CUST_1358,51,Male,Footwear,3531,UPI,1,High,46-60,Needs Improvement
+CUST_1359,41,Female,Sports & Fitness,700,Debit Card,5,Low,36-45,Positive
+CUST_1360,51,Female,Electronics,582,Credit Card,1,Low,46-60,Needs Improvement
+CUST_1361,38,Female,Stationery,3880,Debit Card,2,High,36-45,Needs Improvement
+CUST_1362,37,Male,Health & Wellness,1521,Credit Card,4,Medium,36-45,Positive
+CUST_1363,53,Male,Furniture,4564,Debit Card,1,High,46-60,Needs Improvement
+CUST_1364,57,Female,Health & Wellness,4458,Credit Card,4,High,46-60,Positive
+CUST_1365,18,Male,Furniture,1372,Debit Card,1,Low,18-25,Needs Improvement
+CUST_1366,19,Female,Beauty,2086,Cash,3,Medium,18-25,Needs Improvement
+CUST_1367,25,Male,Pet Supplies,3856,Debit Card,2,High,18-25,Needs Improvement
+CUST_1368,32,Female,Furniture,1620,UPI,1,Medium,26-35,Needs Improvement
+CUST_1369,57,Female,Health & Wellness,4287,UPI,3,High,46-60,Needs Improvement
+CUST_1370,30,Female,Stationery,1077,Debit Card,4,Low,26-35,Positive
+CUST_1371,34,Male,Electronics,3900,Credit Card,2,High,26-35,Needs Improvement
+CUST_1372,28,Female,Sports & Fitness,3901,Debit Card,1,High,26-35,Needs Improvement
+CUST_1373,40,Female,Home,4504,Credit Card,1,High,36-45,Needs Improvement
+CUST_1374,35,Male,Pet Supplies,3635,Cash,5,High,26-35,Positive
+CUST_1375,60,Male,Home,2133,UPI,4,Medium,46-60,Positive
+CUST_1376,41,Male,Books,1046,Debit Card,5,Low,36-45,Positive
+CUST_1377,46,Female,Health & Wellness,1281,Debit Card,2,Low,46-60,Needs Improvement
+CUST_1378,56,Male,Stationery,564,Cash,5,Low,46-60,Positive
+CUST_1379,44,Male,Beauty,4935,UPI,5,High,36-45,Positive
+CUST_1380,22,Female,Home,3286,Debit Card,2,High,18-25,Needs Improvement
+CUST_1381,37,Male,Clothing,1103,Debit Card,1,Low,36-45,Needs Improvement
+CUST_1382,56,Female,Footwear,709,Debit Card,2,Low,46-60,Needs Improvement
+CUST_1383,34,Male,Automotive,2744,Credit Card,5,Medium,26-35,Positive
+CUST_1384,56,Female,Health & Wellness,512,Debit Card,2,Low,46-60,Needs Improvement
+CUST_1385,51,Female,Beauty,2865,Credit Card,4,Medium,46-60,Positive
+CUST_1386,22,Female,Home,3512,Cash,1,High,18-25,Needs Improvement
+CUST_1387,36,Male,Pet Supplies,320,Credit Card,4,Low,36-45,Positive
+CUST_1388,26,Male,Toys,1907,UPI,3,Medium,26-35,Needs Improvement
+CUST_1389,40,Female,Pet Supplies,622,Credit Card,1,Low,36-45,Needs Improvement
+CUST_1390,18,Male,Furniture,1871,Credit Card,2,Medium,18-25,Needs Improvement
+CUST_1391,27,Female,Jewellery,3937,Credit Card,1,High,26-35,Needs Improvement
+CUST_1392,19,Female,Toys,2970,UPI,5,Medium,18-25,Positive
+CUST_1393,56,Male,Toys,1411,Debit Card,3,Low,46-60,Needs Improvement
+CUST_1394,57,Female,Stationery,3260,Credit Card,3,High,46-60,Needs Improvement
+CUST_1395,50,Female,Clothing,1191,Cash,3,Low,46-60,Needs Improvement
+CUST_1396,43,Female,Automotive,750,Cash,2,Low,36-45,Needs Improvement
+CUST_1397,22,Female,Books,3121,Cash,2,High,18-25,Needs Improvement
+CUST_1398,50,Male,Health & Wellness,2210,Cash,5,Medium,46-60,Positive
+CUST_1399,30,Male,Health & Wellness,1227,Cash,2,Low,26-35,Needs Improvement
+CUST_1400,52,Female,Jewellery,4461,Cash,4,High,46-60,Positive
+CUST_1401,50,Male,Beauty,3708,Credit Card,4,High,46-60,Positive
+CUST_1402,43,Female,Sports & Fitness,1832,Cash,5,Medium,36-45,Positive
+CUST_1403,29,Male,Stationery,2837,UPI,2,Medium,26-35,Needs Improvement
+CUST_1404,44,Male,Furniture,1274,Debit Card,2,Low,36-45,Needs Improvement
+CUST_1405,60,Male,Furniture,1959,Cash,1,Medium,46-60,Needs Improvement
+CUST_1406,39,Female,Beauty,1248,Credit Card,1,Low,36-45,Needs Improvement
+CUST_1407,46,Female,Furniture,941,Credit Card,2,Low,46-60,Needs Improvement
+CUST_1408,40,Female,Automotive,1163,Debit Card,5,Low,36-45,Positive
+CUST_1409,51,Female,Clothing,4070,Credit Card,4,High,46-60,Positive
+CUST_1410,58,Female,Home,1967,Debit Card,4,Medium,46-60,Positive
+CUST_1411,26,Male,Groceries,2252,UPI,1,Medium,26-35,Needs Improvement
+CUST_1412,42,Male,Home,4920,UPI,4,High,36-45,Positive
+CUST_1413,24,Male,Jewellery,1953,Credit Card,4,Medium,18-25,Positive
+CUST_1414,50,Female,Toys,2885,Cash,4,Medium,46-60,Positive
+CUST_1415,53,Female,Automotive,1805,UPI,4,Medium,46-60,Positive
+CUST_1416,45,Female,Health & Wellness,2016,Cash,5,Medium,36-45,Positive
+CUST_1417,21,Female,Electronics,2074,UPI,3,Medium,18-25,Needs Improvement
+CUST_1418,58,Female,Clothing,1156,Credit Card,3,Low,46-60,Needs Improvement
+CUST_1419,57,Female,Sports & Fitness,3453,UPI,4,High,46-60,Positive
+CUST_1420,51,Female,Pet Supplies,688,Cash,1,Low,46-60,Needs Improvement
+CUST_1421,42,Male,Sports & Fitness,3532,Debit Card,3,High,36-45,Needs Improvement
+CUST_1422,60,Male,Footwear,4691,Cash,2,High,46-60,Needs Improvement
+CUST_1423,48,Male,Books,1923,UPI,5,Medium,46-60,Positive
+CUST_1424,50,Male,Automotive,4113,UPI,2,High,46-60,Needs Improvement
+CUST_1425,46,Male,Sports & Fitness,4258,Credit Card,3,High,46-60,Needs Improvement
+CUST_1426,40,Female,Sports & Fitness,1739,UPI,1,Medium,36-45,Needs Improvement
+CUST_1427,54,Male,Jewellery,1974,Cash,4,Medium,46-60,Positive
+CUST_1428,52,Male,Clothing,1552,Cash,4,Medium,46-60,Positive
+CUST_1429,25,Female,Groceries,3589,Credit Card,3,High,18-25,Needs Improvement
+CUST_1430,36,Female,Home,2251,Cash,4,Medium,36-45,Positive
+CUST_1431,29,Female,Books,2273,UPI,1,Medium,26-35,Needs Improvement
+CUST_1432,42,Female,Books,2625,Debit Card,3,Medium,36-45,Needs Improvement
+CUST_1433,50,Male,Automotive,1528,Cash,2,Medium,46-60,Needs Improvement
+CUST_1434,40,Female,Electronics,1048,UPI,3,Low,36-45,Needs Improvement
+CUST_1435,55,Female,Sports & Fitness,1595,Debit Card,5,Medium,46-60,Positive
+CUST_1436,41,Male,Sports & Fitness,4067,Cash,3,High,36-45,Needs Improvement
+CUST_1437,38,Male,Furniture,4031,UPI,3,High,36-45,Needs Improvement
+CUST_1438,54,Female,Furniture,2560,Debit Card,1,Medium,46-60,Needs Improvement
+CUST_1439,29,Male,Electronics,1620,Debit Card,2,Medium,26-35,Needs Improvement
+CUST_1440,30,Female,Jewellery,3425,Credit Card,2,High,26-35,Needs Improvement
+CUST_1441,29,Male,Jewellery,3928,Cash,5,High,26-35,Positive
+CUST_1442,39,Female,Stationery,2547,Debit Card,5,Medium,36-45,Positive
+CUST_1443,32,Male,Toys,743,Cash,2,Low,26-35,Needs Improvement
+CUST_1444,31,Male,Furniture,949,UPI,2,Low,26-35,Needs Improvement
+CUST_1445,43,Male,Pet Supplies,4176,UPI,5,High,36-45,Positive
+CUST_1446,52,Female,Groceries,4507,UPI,3,High,46-60,Needs Improvement
+CUST_1447,34,Male,Health & Wellness,2194,UPI,5,Medium,26-35,Positive
+CUST_1448,56,Male,Sports & Fitness,1639,Credit Card,5,Medium,46-60,Positive
+CUST_1449,52,Female,Automotive,1966,UPI,4,Medium,46-60,Positive
+CUST_1450,33,Male,Jewellery,1283,Cash,3,Low,26-35,Needs Improvement
+CUST_1451,35,Male,Toys,4437,Cash,3,High,26-35,Needs Improvement
+CUST_1452,57,Male,Stationery,3628,Debit Card,5,High,46-60,Positive
+CUST_1453,30,Female,Toys,1279,Cash,5,Low,26-35,Positive
+CUST_1454,51,Female,Furniture,3990,Credit Card,3,High,46-60,Needs Improvement
+CUST_1455,56,Female,Health & Wellness,2183,Debit Card,5,Medium,46-60,Positive
+CUST_1456,34,Male,Health & Wellness,906,Credit Card,5,Low,26-35,Positive
+CUST_1457,50,Male,Clothing,3728,Debit Card,3,High,46-60,Needs Improvement
+CUST_1458,44,Male,Stationery,1459,UPI,2,Low,36-45,Needs Improvement
+CUST_1459,42,Female,Groceries,3513,UPI,1,High,36-45,Needs Improvement
+CUST_1460,46,Male,Furniture,2784,Debit Card,5,Medium,46-60,Positive
+CUST_1461,53,Male,Sports & Fitness,345,Credit Card,1,Low,46-60,Needs Improvement
+CUST_1462,21,Male,Books,3538,Cash,2,High,18-25,Needs Improvement
+CUST_1463,43,Male,Sports & Fitness,971,Debit Card,2,Low,36-45,Needs Improvement
+CUST_1464,54,Female,Jewellery,4982,Credit Card,5,High,46-60,Positive
+CUST_1465,28,Female,Books,2292,UPI,3,Medium,26-35,Needs Improvement
+CUST_1466,26,Female,Pet Supplies,4595,Cash,3,High,26-35,Needs Improvement
+CUST_1467,18,Male,Health & Wellness,1990,Credit Card,1,Medium,18-25,Needs Improvement
+CUST_1468,45,Female,Furniture,362,Credit Card,1,Low,36-45,Needs Improvement
+CUST_1469,25,Female,Automotive,1356,Cash,1,Low,18-25,Needs Improvement
+CUST_1470,46,Female,Stationery,2376,Cash,4,Medium,46-60,Positive
+CUST_1471,30,Female,Furniture,3893,Credit Card,1,High,26-35,Needs Improvement
+CUST_1472,31,Male,Toys,732,UPI,4,Low,26-35,Positive
+CUST_1473,29,Male,Home,4289,Cash,3,High,26-35,Needs Improvement
+CUST_1474,32,Male,Jewellery,4778,UPI,4,High,26-35,Positive
+CUST_1475,47,Female,Furniture,1247,UPI,3,Low,46-60,Needs Improvement
+CUST_1476,60,Male,Health & Wellness,1674,Cash,4,Medium,46-60,Positive
+CUST_1477,33,Male,Sports & Fitness,521,Credit Card,5,Low,26-35,Positive
+CUST_1478,43,Female,Stationery,4673,UPI,3,High,36-45,Needs Improvement
+CUST_1479,24,Male,Clothing,3580,Debit Card,1,High,18-25,Needs Improvement
+CUST_1480,31,Male,Groceries,1105,Credit Card,4,Low,26-35,Positive
+CUST_1481,23,Female,Health & Wellness,769,UPI,4,Low,18-25,Positive
+CUST_1482,39,Female,Health & Wellness,1033,Cash,2,Low,36-45,Needs Improvement
+CUST_1483,20,Male,Automotive,2902,Cash,5,Medium,18-25,Positive
+CUST_1484,52,Female,Groceries,2497,Cash,4,Medium,46-60,Positive
+CUST_1485,58,Male,Home,866,Debit Card,2,Low,46-60,Needs Improvement
+CUST_1486,49,Female,Home,2523,UPI,2,Medium,46-60,Needs Improvement
+CUST_1487,29,Female,Jewellery,2824,Debit Card,1,Medium,26-35,Needs Improvement
+CUST_1488,53,Female,Toys,3696,Cash,3,High,46-60,Needs Improvement
+CUST_1489,33,Female,Footwear,4730,UPI,5,High,26-35,Positive
+CUST_1490,53,Female,Sports & Fitness,4482,Credit Card,1,High,46-60,Needs Improvement
+CUST_1491,33,Male,Toys,2292,UPI,1,Medium,26-35,Needs Improvement
+CUST_1492,29,Female,Jewellery,1748,Credit Card,3,Medium,26-35,Needs Improvement
+CUST_1493,30,Female,Pet Supplies,2920,UPI,2,Medium,26-35,Needs Improvement
+CUST_1494,48,Female,Jewellery,1377,Cash,3,Low,46-60,Needs Improvement
+CUST_1495,33,Male,Books,698,Credit Card,2,Low,26-35,Needs Improvement
+CUST_1496,53,Male,Sports & Fitness,4370,Credit Card,3,High,46-60,Needs Improvement
+CUST_1497,53,Male,Beauty,809,Debit Card,5,Low,46-60,Positive
+CUST_1498,38,Male,Electronics,4009,Debit Card,1,High,36-45,Needs Improvement
+CUST_1499,35,Female,Furniture,3745,UPI,5,High,26-35,Positive
+CUST_1500,28,Female,Electronics,3878,Cash,1,High,26-35,Needs Improvement
+CUST_1501,44,Male,Beauty,1837,Debit Card,5,Medium,36-45,Positive
+CUST_1502,58,Male,Sports & Fitness,2037,Credit Card,3,Medium,46-60,Needs Improvement
+CUST_1503,26,Male,Stationery,1668,Cash,3,Medium,26-35,Needs Improvement
+CUST_1504,56,Female,Automotive,712,Credit Card,4,Low,46-60,Positive
+CUST_1505,50,Female,Stationery,1628,Credit Card,1,Medium,46-60,Needs Improvement
+CUST_1506,35,Male,Home,4220,UPI,5,High,26-35,Positive
+CUST_1507,42,Male,Health & Wellness,2206,Debit Card,3,Medium,36-45,Needs Improvement
+CUST_1508,34,Male,Electronics,2939,Credit Card,4,Medium,26-35,Positive
+CUST_1509,50,Female,Electronics,2910,Cash,2,Medium,46-60,Needs Improvement
+CUST_1510,52,Male,Home,2888,Credit Card,2,Medium,46-60,Needs Improvement
+CUST_1511,20,Female,Health & Wellness,2994,Credit Card,3,Medium,18-25,Needs Improvement
+CUST_1512,24,Male,Footwear,3792,UPI,5,High,18-25,Positive
+CUST_1513,48,Female,Health & Wellness,2959,Debit Card,2,Medium,46-60,Needs Improvement
+CUST_1514,37,Female,Pet Supplies,1571,Debit Card,3,Medium,36-45,Needs Improvement
+CUST_1515,37,Male,Books,4454,Cash,4,High,36-45,Positive
+CUST_1516,26,Male,Footwear,4693,Debit Card,3,High,26-35,Needs Improvement
+CUST_1517,37,Male,Electronics,3566,Debit Card,5,High,36-45,Positive
+CUST_1518,27,Female,Beauty,4871,Cash,5,High,26-35,Positive
+CUST_1519,27,Female,Stationery,1337,Cash,5,Low,26-35,Positive
+CUST_1520,18,Female,Home,3033,Credit Card,2,High,18-25,Needs Improvement
+CUST_1521,39,Male,Furniture,3760,Debit Card,2,High,36-45,Needs Improvement
+CUST_1522,25,Female,Toys,1327,Credit Card,2,Low,18-25,Needs Improvement
+CUST_1523,40,Male,Stationery,2743,Credit Card,5,Medium,36-45,Positive
+CUST_1524,22,Female,Automotive,4067,Cash,5,High,18-25,Positive
+CUST_1525,34,Male,Electronics,3712,Debit Card,1,High,26-35,Needs Improvement
+CUST_1526,51,Female,Groceries,3582,Cash,2,High,46-60,Needs Improvement
+CUST_1527,25,Male,Pet Supplies,517,UPI,1,Low,18-25,Needs Improvement
+CUST_1528,27,Male,Sports & Fitness,1351,UPI,3,Low,26-35,Needs Improvement
+CUST_1529,28,Female,Beauty,3231,UPI,4,High,26-35,Positive
+CUST_1530,25,Female,Home,748,Cash,5,Low,18-25,Positive
+CUST_1531,30,Female,Home,1487,Cash,4,Low,26-35,Positive
+CUST_1532,57,Male,Stationery,2489,UPI,4,Medium,46-60,Positive
+CUST_1533,47,Male,Electronics,3792,Cash,2,High,46-60,Needs Improvement
+CUST_1534,43,Male,Jewellery,4382,Cash,4,High,36-45,Positive
+CUST_1535,19,Female,Electronics,704,Cash,1,Low,18-25,Needs Improvement
+CUST_1536,18,Female,Electronics,1813,Debit Card,4,Medium,18-25,Positive
+CUST_1537,31,Female,Automotive,2584,Debit Card,3,Medium,26-35,Needs Improvement
+CUST_1538,39,Female,Clothing,828,Credit Card,4,Low,36-45,Positive
+CUST_1539,18,Female,Pet Supplies,4971,Debit Card,3,High,18-25,Needs Improvement
+CUST_1540,54,Male,Books,4210,UPI,4,High,46-60,Positive
+CUST_1541,50,Male,Sports & Fitness,3141,UPI,5,High,46-60,Positive
+CUST_1542,29,Female,Toys,2049,Credit Card,4,Medium,26-35,Positive
+CUST_1543,42,Female,Toys,723,Credit Card,1,Low,36-45,Needs Improvement
+CUST_1544,25,Male,Footwear,301,UPI,3,Low,18-25,Needs Improvement
+CUST_1545,46,Female,Health & Wellness,1869,Debit Card,2,Medium,46-60,Needs Improvement
+CUST_1546,38,Male,Pet Supplies,2738,Debit Card,1,Medium,36-45,Needs Improvement
+CUST_1547,30,Male,Home,3630,Debit Card,4,High,26-35,Positive
+CUST_1548,18,Female,Home,4584,UPI,2,High,18-25,Needs Improvement
+CUST_1549,58,Male,Automotive,913,UPI,1,Low,46-60,Needs Improvement
